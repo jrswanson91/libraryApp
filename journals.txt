@@ -1,0 +1,5 @@
+Emerging Trends		08-19-2014		10		11		IEEE Computer 
+Common Framework		09-20-2014		10		11		O'Reily 
+Adopel		10-12-2013		10		11		CACM 
+Foundations in Machine Learning		01-22-2014		11		12		IEEE 
+SocietyMolecular Systems Biology		10-12-2009		10		11		Springer
